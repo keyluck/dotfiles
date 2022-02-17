@@ -8,4 +8,4 @@ zshrc() {
 
 zshrc
 
-cp .bash_aliases ~/.bash_alias
+cp .bash_aliases ~/.bash_aliases
