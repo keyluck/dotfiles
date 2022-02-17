@@ -7,3 +7,5 @@ zshrc() {
 }
 
 zshrc
+
+cp .bash_aliases ~/.bash_alias
