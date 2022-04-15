@@ -9,3 +9,5 @@ zshrc() {
 zshrc
 
 cp .bash_aliases ~/.bash_aliases
+mkdir ~/.kube
+echo "$KUBECONFIG_NONPROD_NEW" > ~/.kube/config
